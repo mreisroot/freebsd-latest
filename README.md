@@ -21,10 +21,14 @@ cd /path/to/freebsd-latest
 su -m root -c ./freebsd-latest.sh
 ```
 
+or
+
 ```sh
 cd /path/to/freebsd-latest
 doas ./freebsd-latest.sh
 ```
+
+or
 
 ```sh
 cd /path/to/freebsd-latest
